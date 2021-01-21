@@ -1,5 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"spr_asteroid_med","path":"sprites/spr_asteroid_med/spr_asteroid_med.yy",},"order":2,},
+    {"id":{"name":"spr_asteroid_small","path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},"order":1,},
+    {"id":{"name":"spr_asteroid_large","path":"sprites/spr_asteroid_large/spr_asteroid_large.yy",},"order":3,},
+    {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},"order":0,},
     {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":0,},
   ],
   "Options": [
